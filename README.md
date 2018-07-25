@@ -1,2 +1,2 @@
-# Sample integration
-> A sample that explain how create CI/CD for your project
+# Sample
+:rocket: A sample that show the better way for delivery your app
